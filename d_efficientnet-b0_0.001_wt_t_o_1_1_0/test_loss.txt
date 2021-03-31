@@ -1,0 +1,1 @@
+Ynoise:0.02857	strength:0.02075	loss_all:0.04932	
